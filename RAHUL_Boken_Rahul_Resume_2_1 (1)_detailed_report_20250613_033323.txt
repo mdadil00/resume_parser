@@ -1,0 +1,110 @@
+COMPREHENSIVE RESUME ANALYSIS REPORT
+==================================================
+
+Candidate: RAHUL_Boken_Rahul_Resume_2_1 (1).pdf
+Analysis Date: 2025-06-13 03:33:23
+Status: ❌ Not Qualified
+Composite Score: 0.512
+
+SCORING BREAKDOWN:
+------------------------------
+Skill Score: 0.200 (30% weight)
+Semantic Score: 0.697 (60% weight)
+Experience Score: 0.333 (10% weight)
+
+EXPERIENCE ANALYSIS:
+------------------------------
+Total Experience: 1.0 years
+Experience Rating: Entry-level (<2 years)
+
+SKILL MATCHING DETAILS:
+------------------------------
+JD Skills Required (20):
+   1. SharePoint
+   2. Microsoft 365
+   3. Migration
+   4. PowerShell
+   5. ShareGate
+   6. Metalogix
+   7. AvePoint
+   8. Mover.io
+   9. Google Workspace
+  10. Google Drive
+  11. Google Sites
+  12. File shares
+  13. Network drives
+  14. OneDrive for Business
+  15. Project Management
+  16. Communication
+  17. Information Architecture
+  18. Security
+  19. Compliance
+  20. Governance
+
+Resume Skills Found (29):
+   1. SharePoint
+   2. Power Automate (formerly Microsoft Flow)
+   3. SPFx
+   4. Add-ins (SharePoint hosted apps)
+   5. REST API
+   6. CSOM
+   7. Sharegate
+   8. SMAT
+   9. SQL server Management studio
+  10. Project Online server
+  11. Office Online Server
+  12. Multi-factor authentication MFA
+  13. Power BI
+  14. Custom lists
+  15. Document libraries
+  16. Site columns
+  17. Content types
+  18. Out-of-Box Workflows
+  19. Managed permissions
+  20. SharePoint 2013 Portal Sites
+  21. SharePoint Framework (SPFx)
+  22. Project Management
+  23. Leadership
+  24. Communication
+  25. Problem-solving
+  26. Team collaboration
+  27. Organizational skills
+  28. Self-motivation
+  29. Positive attitude
+
+Exact Matches (4):
+   1. sharegate
+   2. project management
+   3. communication
+   4. sharepoint
+
+Fuzzy Matches (0):
+
+Missing Skills (20):
+   1. AvePoint
+   2. ShareGate
+   3. Microsoft 365
+   4. Governance
+   5. Mover.io
+   6. Project Management
+   7. OneDrive for Business
+   8. SharePoint
+   9. Google Sites
+  10. Google Drive
+  11. Compliance
+  12. Migration
+  13. File shares
+  14. Security
+  15. Google Workspace
+  16. Network drives
+  17. Information Architecture
+  18. PowerShell
+  19. Metalogix
+  20. Communication
+
+RECOMMENDATIONS:
+------------------------------
+❌ NOT RECOMMENDED
+Candidate lacks sufficient skill alignment or experience for this role.
+
+Skill gaps to address: AvePoint, ShareGate, Microsoft 365, Governance, Mover.io
